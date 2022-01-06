@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+/* font-family: 'Prata', serif; */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,700;0,900;1,400&family=Prata&display=swap');
+/* font-family: 'Lato', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,700;0,900;1,400&family=Prata&family=Roboto:wght@300;400;500;900&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lato:ital,wght@0,300;0,700;0,900;1,400&family=Prata&family=Roboto:wght@300;400;500;900&display=swap');
+/* font-family: 'Dancing Script', cursive; */
+
+
+body {
+    background-color: #fafafa;
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #3E3E3E;
+    padding: 10px 10px;
+}
+
+.D-flexible-container {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.images1 {
+    width: 55%;
+    padding-left: 120px;
+}
+
+.header-text {
+    padding-left: 100px;
+}
+
+.first-header {
+    border-left: 5px solid #5B24B7;
+    font-family: 'Prata', serif;
+    font-weight: 600;
+    padding-left: 4px;
+    border-radius: 4px;
+}
+
+.mission1 {
+    font-family: 'Prata', serif;
+    font-weight: 900;
+    padding-left: 4px;
+    font-size: 40px;
+    color: #333333;
+}
+
+.mission2 {
+    font-family: 'Prata', serif;
+    font-weight: 900;
+    padding-left: 4px;
+    font-size: 40px;
+    color: #fa8d20;
+}
+
+.hire-btn {
+    padding: 10px 30px;
+    color: #f5f5f5;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    background: linear-gradient(145deg, #5B24B7, #85489F);
+    /* box-shadow: 6px 6px 6px #9e3d7f,
+        -6px -6px 6px #ac4389; */
+}
+
+
+
+/* START SECOND SECTION */
+.theree-colum {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.mission_1 {
+    color: #5B24B7;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.mission_2 {
+    color: #7F43A2;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.img1 {
+    width: 40%;
+
+}
+
+.second-steps {
+    color: #5B24B7;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+
+
+}
+
+.third-p {
+    text-align: left;
+    padding-left: 0px;
+}
+
+.first-img {
+    padding: 10px;
+    background-color: #c3f7ff;
+    border-radius: 10px;
+    margin: 0px 20px;
+
+}
+
+.second-img {
+    padding: 10px;
+    background-color: #f8d8d8;
+    border-radius: 8px;
+    margin: 0px 20px;
+
+}
+
+.third-img {
+    padding: 10px;
+    background-color: #fdedbf;
+    border-radius: 8px;
+    margin: 0px 20px;
+
+}
+
+
+/* ----------------------------------Third Steps */
+
+
+.third-d-second-steps {
+    color: #5B24B7;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+
+
+}
+
+.third-steps-text {
+    margin-left: -163px;
+    margin-right: 150px;
+}
+
+
+
+.forth-img4 {
+    width: 50%;
+    padding-left: 120px;
+}
+
+.fourth-steps-text {
+    padding-left: 100px;
+}
+
+
+.mission5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    padding-left: 4px;
+    font-size: 50px;
+    color: #5B24B7;
+    text-align: center;
+}
+
+.mission6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    padding-left: 4px;
+    font-size: 50px;
+    color: #fa8d20;
+}
+
+.mission7 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    padding-left: 4px;
+    font-size: 50px;
+    color: #5B24B7;
+}
+
+.five-steps-text {
+    padding: 0px;
+}
+
+.footer-section {
+    padding: 30px;
+    background-color: #5B24B7;
+
+}
+
+.footer-text {
+    color: #c3f7ff;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.footer-p {
+    color: #c3f7ff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 22px;
+    text-align: center;
+}
