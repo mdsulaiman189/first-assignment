@@ -8,7 +8,7 @@
 
 
 body {
-    background-color: #fafafa;
+    background-color: white;
     margin: 0px;
     padding: 0px;
 }
@@ -216,10 +216,19 @@ p {
     text-align: center;
 }
 
-.footer-p {
+/* .footer-p {
     color: #04333A;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 22px;
+    text-align: center;
+} */
+
+.footer-p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #3E3E3E;
+    padding: 10px 10px;
     text-align: center;
 }
